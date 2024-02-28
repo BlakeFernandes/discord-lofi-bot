@@ -1,0 +1,12 @@
+{
+  "prefix": "!",
+  "token": "",
+  "staffRole": "STAFFROLEID",
+  "music": {
+    "lavalinkhost": "localhost",
+    "lavalinkpassword" : "youshallnotpass",
+    "lavalinkport": 2333,
+    "spotifyid": "",
+    "spotifysecret": ""
+  }
+}
